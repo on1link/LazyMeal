@@ -1,2 +1,2 @@
-# Insaneat
-Fitness self-scheduled meal with nutrition guide
+# LazyMeal
+Fitness self-scheduled meals.
