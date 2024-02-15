@@ -1,2 +1,2 @@
 # LazyMeal
-Fitness self-scheduled meals.
+Self-scheduled meals.
